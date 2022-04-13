@@ -9,9 +9,9 @@ Discriptions 📓:
   - I want to make it look like a flower at the end and with the color white, a symbolism of hope and purity.
   
 Colors 🖌️:
-    - White
-    - Indigo
-    - Magenta
-    - Pink
-    - Violet
+   - White
+   - Indigo
+   - Magenta
+   - Pink
+   - Violet
     
