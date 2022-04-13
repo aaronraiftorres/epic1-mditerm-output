@@ -1,5 +1,5 @@
 # epic1-mditerm-output
-##Mandala Art - Midterm
+## Mandala Art  Midterm
 
 Discriptions 📓:
   - I made it pink to represent my president for incoming 2022 presdent election.
